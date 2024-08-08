@@ -1,1 +1,2 @@
-Lo escribire luego
+This project consists of a recipe website that consists of a home page (the index) that has links to other pages with the recipes (all within one website).
+To make this project I have used what I have learned about HTML in The Odin Project fundamentals course
